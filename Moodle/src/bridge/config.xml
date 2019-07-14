@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config>
+	<!--RefinedAbstraction-->
+	<className>bridge.GIFImage</className>
+	<!--ConcreteImplementor-->
+	<className>bridge.WindowsImp</className>
+</config>
